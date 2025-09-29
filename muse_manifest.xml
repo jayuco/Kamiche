@@ -1,0 +1,110 @@
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="kamiche.org/aaaprueba" resolutions="1x" timestamp="1492054191409">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="3761519712" ref="index"/>
+    <file name="contact.css" crc="3876418122" ref="contact"/>
+    <file name="warehouse.css" crc="3885346252" ref="warehouse"/>
+    <file name="master_a-p_g_-maestra.css" crc="194414454" ref="contact:index:warehouse:about-us"/>
+    <file name="nomq_preview_master_a-p_g_-maestra.css" crc="71425605" ref="contact:index:warehouse:about-us"/>
+    <file name="nomq_contact.css" crc="124804645" ref="contact"/>
+    <file name="nomq_index.css" crc="4028555881" ref="index"/>
+    <file name="nomq_warehouse.css" crc="4160490522" ref="warehouse"/>
+    <file name="about-us.css" crc="4109217060" ref="about-us"/>
+    <file name="nomq_about-us.css" crc="68321138" ref="about-us"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:warehouse:contact:about-us"/>
+    <file name="museutils.js" crc="163421577" ref="index:warehouse:contact:about-us"/>
+    <file name="whatinput.js" crc="86476730" ref="index:warehouse:contact:about-us"/>
+    <file name="museconfig.js" crc="36584860" ref="index:warehouse:contact:about-us"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index:warehouse:contact:about-us"/>
+    <file name="require.js" crc="244322403" ref="index:warehouse:contact:about-us"/>
+    <file name="webpro.js" crc="3848665353" ref="warehouse:index:contact:about-us"/>
+    <file name="musewpslideshow.js" crc="4041717617" ref="warehouse"/>
+    <file name="jquery.museoverlay.js" crc="36492500" ref="warehouse"/>
+    <file name="touchswipe.js" crc="404375771" ref="warehouse"/>
+    <file name="jquery.musemenu.js" crc="146495465" ref="index:contact:about-us:warehouse"/>
+    <file name="musewpdisclosure.js" crc="4275188064" ref="index:contact:about-us:warehouse"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:contact:about-us:warehouse"/>
+    <file name="jquery.museresponsive.js" crc="4146931122" ref="index:contact:about-us:warehouse"/>
+    <file name="form_check.php" crc="158155501" ref="contact"/>
+    <file name="form_throttle.php" crc="3992970984" ref="contact"/>
+    <file name="form_process.php" crc="4078697226" ref="contact"/>
+    <file name="form-u1729.php" crc="197719268" ref="contact"/>
+  </folder>
+  <folder name="images">
+    <file name="blank.gif" crc="4208392903" ref="warehouse:index:contact:about-us"/>
+    <file name="pic1.jpg" crc="4068332691" seo="true" ref="warehouse"/>
+    <file name="pic2.jpg" crc="455541972" seo="true" ref="warehouse"/>
+    <file name="pic3.jpg" crc="3907202600" seo="true" ref="warehouse"/>
+    <file name="pic4.jpg" crc="4054664980" seo="true" ref="warehouse"/>
+    <file name="pic5.jpg" crc="4034117333" seo="true" ref="warehouse"/>
+    <file name="pic6-a.jpg" crc="258344362" seo="true" ref="warehouse"/>
+    <file name="pic7.jpg" crc="350752527" seo="true" ref="warehouse"/>
+    <file name="pic8.jpg" crc="295745997" seo="true" ref="warehouse"/>
+    <file name="pic9.jpg" crc="3780232917" seo="true" ref="warehouse"/>
+    <file name="pic10.jpg" crc="532561738" seo="true" ref="warehouse"/>
+    <file name="pic11.jpg" crc="42780605" seo="true" ref="warehouse"/>
+    <file name="pic12.jpg" crc="258264355" seo="true" ref="warehouse"/>
+    <file name="pic13.jpg" crc="502891601" seo="true" ref="warehouse"/>
+    <file name="pic14.jpg" crc="3901451825" seo="true" ref="warehouse"/>
+    <file name="pic15.jpg" crc="4028906356" seo="true" ref="warehouse"/>
+    <file name="pic16.jpg" crc="3934213812" seo="true" ref="warehouse"/>
+    <file name="loading.gif" crc="3815509949" ref="warehouse"/>
+    <file name="2.gif" crc="528797636" ref="index:contact"/>
+    <file name="3j7a7970-crop-u1630.jpg" crc="180221822" ref="index"/>
+    <file name="3j7a7970-crop-u16302.jpg" crc="4260475962" ref="index"/>
+    <file name="3j7a7970-crop-u16303.jpg" crc="467152790" ref="index"/>
+    <file name="1.gif" crc="103271972" ref="index"/>
+    <file name="6-1.jpg" crc="324107646" seo="true" ref="warehouse"/>
+    <file name="6-2.jpg" crc="4139860740" seo="true" ref="warehouse"/>
+    <file name="6-3.jpg" crc="220769934" seo="true" ref="warehouse"/>
+    <file name="6-4.jpg" crc="3957255118" seo="true" ref="warehouse"/>
+    <file name="7-1.jpg" crc="436421638" seo="true" ref="warehouse"/>
+    <file name="7-2.jpg" crc="284682459" seo="true" ref="warehouse"/>
+    <file name="7-3.jpg" crc="4106847418" seo="true" ref="warehouse"/>
+    <file name="7-4.jpg" crc="3835647596" seo="true" ref="warehouse"/>
+    <file name="8-1.jpg" crc="508522905" seo="true" ref="warehouse"/>
+    <file name="8-2.jpg" crc="4114447743" seo="true" ref="warehouse"/>
+    <file name="8-3.jpg" crc="347066664" seo="true" ref="warehouse"/>
+    <file name="8-4.jpg" crc="203462448" seo="true" ref="warehouse"/>
+    <file name="9-1.jpg" crc="321603316" seo="true" ref="warehouse"/>
+    <file name="9-1a.jpg" crc="4139027008" seo="true" ref="warehouse"/>
+    <file name="9-2.jpg" crc="179826980" seo="true" ref="warehouse"/>
+    <file name="9-3.jpg" crc="3976684250" seo="true" ref="warehouse"/>
+    <file name="9-4.jpg" crc="3923058395" seo="true" ref="warehouse"/>
+    <file name="10-1.jpg" crc="4248472725" seo="true" ref="warehouse"/>
+    <file name="10-2.jpg" crc="3976509276" seo="true" ref="warehouse"/>
+    <file name="10-3.jpg" crc="370193778" seo="true" ref="warehouse"/>
+    <file name="10-4.jpg" crc="249891489" seo="true" ref="warehouse"/>
+    <file name="11-1.jpg" crc="189255047" seo="true" ref="warehouse"/>
+    <file name="11-2.jpg" crc="88967943" seo="true" ref="warehouse"/>
+    <file name="11-3.jpg" crc="136931262" seo="true" ref="warehouse"/>
+    <file name="11-4.jpg" crc="105480003" seo="true" ref="warehouse"/>
+    <file name="12-1.jpg" crc="418367287" seo="true" ref="warehouse"/>
+    <file name="12-2.jpg" crc="3801005619" seo="true" ref="warehouse"/>
+    <file name="12-2a.jpg" crc="439649813" seo="true" ref="warehouse"/>
+    <file name="12-3.jpg" crc="373221644" seo="true" ref="warehouse"/>
+    <file name="12-4.jpg" crc="3766620958" seo="true" ref="warehouse"/>
+    <file name="13-1.jpg" crc="4032384562" seo="true" ref="warehouse"/>
+    <file name="13-2.jpg" crc="252394092" seo="true" ref="warehouse"/>
+    <file name="13-3.jpg" crc="483974705" seo="true" ref="warehouse"/>
+    <file name="13-4.jpg" crc="25995290" seo="true" ref="warehouse"/>
+    <file name="pic3-a.jpg" crc="4259647649" seo="true" ref="warehouse"/>
+    <file name="pic4-a1.jpg" crc="335483570" seo="true" ref="warehouse"/>
+    <file name="pic6.jpg" crc="4122993903" seo="true" ref="warehouse"/>
+    <file name="pic7-a.jpg" crc="4178759587" seo="true" ref="warehouse"/>
+    <file name="pic8-a.jpg" crc="300463131" seo="true" ref="warehouse"/>
+    <file name="pic9-a.jpg" crc="46030513" seo="true" ref="warehouse"/>
+    <file name="pic12-a.jpg" crc="4100827186" seo="true" ref="warehouse"/>
+    <file name="pic13-a.jpg" crc="274620793" seo="true" ref="warehouse"/>
+    <file name="pica-1.jpg" crc="273095806" seo="true" ref="warehouse"/>
+    <file name="pica-2.jpg" crc="4058291880" seo="true" ref="warehouse"/>
+    <file name="pica-3.jpg" crc="3775191189" seo="true" ref="warehouse"/>
+    <file name="pica-4.jpg" crc="88541659" seo="true" ref="warehouse"/>
+  </folder>
+  <file name="index.html" crc="137720534" seo="true" mt="1492054004438" redirect="true"/>
+  <file name="warehouse.html" crc="443007578" seo="true" mt="1492054004438" redirect="true"/>
+  <file name="contact.html" crc="380591263" seo="true" mt="1492054004438" redirect="true"/>
+  <file name="about-us.html" crc="4047671947" seo="true" mt="1492054004438" redirect="true"/>
+</manifest>
